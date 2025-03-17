@@ -1,4 +1,4 @@
-# Effects of Urbanization on Deforestation over Time: \ DS4002 Data Divas Project 2
+# Effects of Urbanization on Deforestation over Time: DS4002 Data Divas Project 2
 ## Software and Platforms:
 We used Python to run the majority of our code in Jupyter Notebooks in either Google Colab or locally using Anaconda Jupyter Lab. Platform varied by group member, so we used both Mac and Windows. In order to use Python in the most efficient manner, we used the following additional packages imported with this code: pandas, numpy, os, seaborn, matplotlib.pyplot, and .... 
 
