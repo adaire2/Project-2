@@ -2,7 +2,8 @@
 ## Software and Platforms:
 We used Python to run the majority of our code in Jupyter Notebooks in either Google Colab or locally using Anaconda Jupyter Lab. Platform varied by group member, so we used both Mac and Windows. In order to use Python in the most efficient manner, we used the following additional packages imported with this code: pandas, numpy, os, seaborn, matplotlib.pyplot, and .... 
 
-## Documentation Map: <br>![Sitemap Whiteboard in Green Purple Basic Style-2](https://github.com/user-attachments/assets/bc7ac443-f61e-4a6a-9af7-930b2c11ef0c)
+## Documentation Map: <br>!![Sitemap Whiteboard in Green Purple Basic Style-3](https://github.com/user-attachments/assets/13713053-8ac6-406a-86c5-958c17e70ae3)
+
 
 
 ## How to Reproduce our Results:
